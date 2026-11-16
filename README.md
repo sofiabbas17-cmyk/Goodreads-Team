@@ -8,7 +8,7 @@ your question, evidence, interpretation, and limitations.
 ## Project overview
 
 - **Research question:** [What are you trying to learn?]
-- **Team members:** [Names]
+- **Team members:** [Melody, Keai, Sofia]
 - **Unit of analysis:** [What does one row or document represent?]
 - **Data source:** [Where do the data come from?]
 - **Main result:** [Complete this after the analysis.]

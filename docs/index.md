@@ -25,8 +25,9 @@ We expect these one-star reviews to consist of dissatisfaction towards quality o
 - **Source:** UCSD Goodreads Book Graph dataset
 - **Unit of analysis:** One user review of one children's book
 - **Coverage:** [Dates, filters, sample, and exclusions.]
-- **Access and ethics:** [What can be shared publicly? What privacy, consent,
-  representativeness, or data-quality concerns matter?]
+- **Access and ethics:** Although the dataset is publicly accessible, it contains user-generated content and user identifiers. We should avoid disclosing identifying information and report findings at an aggregate level.
+Additionally, we cannot confirm whether users have actually read the books they reviewed, which raises concerns about the authenticity of some reviews.
+
 
 [Describe important collection and cleaning decisions. Do not publish private
 or restricted data.]

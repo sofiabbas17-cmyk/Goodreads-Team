@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "[Project title]"
+title: "GoodReads Data"
 ---
 
 <!--
@@ -8,23 +8,22 @@ This website is public. Do not include private data, credentials, identifying
 information, or material that you do not have permission to share.
 -->
 
-# [Project title]
+# Exploring GoodReads Reviews: Children Books' 1-Star Reviews
 
-**Team:** [Names]
+**Team:** [Keai, Melody, Sofia]
 
 [In two or three sentences, state what you studied and the main result.]
 
 ## Research question and motivation
 
-**Research question:** [What are you trying to learn?]
+**Research question:** Among one-star reviews of children’s books on Goodreads, what are the most common reasons reviewers give for their rating, and which topics or themes do they judge inappropriate for the intended child audience?
 
-[Explain why the question matters for social science. Define important terms
-and give readers enough context to understand the project.]
+We expect these one-star reviews to consist of dissatisfaction towards quality of storytelling and objections towards content matter. We are interested in exploring how text analysis of one-star reviews may reveal the values and literary standards held by readers (particularly by parental figures/adults actually writing the reviews). What constitutes appropriate content for a children’s book can be a controversial topic that reflects slices of the present cultural moment. 
 
 ## Data
 
-- **Source:** [Where did the data come from? Link to the source when possible.]
-- **Unit of analysis:** [What does one row or document represent?]
+- **Source:** UCSD Goodreads Book Graph dataset
+- **Unit of analysis:** One user review of one children's book
 - **Coverage:** [Dates, filters, sample, and exclusions.]
 - **Access and ethics:** [What can be shared publicly? What privacy, consent,
   representativeness, or data-quality concerns matter?]

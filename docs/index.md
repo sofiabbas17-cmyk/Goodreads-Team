@@ -16,9 +16,9 @@ information, or material that you do not have permission to share.
 
 ## Research question and motivation
 
-**Research question:** Among one-star reviews of children’s books on Goodreads, what are the most common reasons reviewers give for their rating, and which topics or themes do they judge inappropriate for the intended child audience?
+**Research question:** Among one-star reviews of children’s books on Goodreads, what portion of the reviews are complaints of appropriateness and which topics or themes do they judge as inappropriate, particularly for the intended child audience?
 
-We expect these one-star reviews to consist of dissatisfaction towards quality of storytelling and objections towards content matter. We are interested in exploring how text analysis of one-star reviews may reveal the values and literary standards held by readers (particularly by parental figures/adults actually writing the reviews). What constitutes appropriate content for a children’s book can be a controversial topic that reflects slices of the present cultural moment. 
+We expect a majority of these one-star reviews to consist of dissatisfaction towards quality of storytelling and objections towards content matter. We are interested in exploring how text analysis of one-star reviews may reveal the values and literary standards held by readers (particularly by parental figures/adults actually writing the reviews). What constitutes appropriate content for a children’s book can be a controversial topic that reflects slices of the present cultural moment. 
 
 ## Data
 
